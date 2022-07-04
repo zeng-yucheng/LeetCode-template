@@ -1,5 +1,7 @@
 # Binary Search Template
 
+## Steps:
+
 1. Special cases
 2. Define two pointers
 3. Iteration
@@ -7,6 +9,8 @@
     2. Target
     3. Re-calculate pointers 
 4. Return
+
+## Template:
 
 ```python
     def func():
@@ -31,3 +35,6 @@
         # return target
         return ...
 ```
+
+## Problems:
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
