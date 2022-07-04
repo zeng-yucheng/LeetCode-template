@@ -38,3 +38,7 @@
 
 ## Problems:
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+## Note:
+* `left <= right`
+* `mid = target or target + 1`
