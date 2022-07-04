@@ -13,27 +13,27 @@
 ## Template:
 
 ```python
-    def func():
-        # deal with special cases
-        if ... : return ...
+def func():
+    # deal with special cases
+    if ... : return ...
 
-        # define left and right pointer
-        left, right = ..., ...
+    # define left and right pointer
+    left, right = ..., ...
 
-        # define iteration coditions
-        while left <= right:
-            # calculate mid
-            mid = (left + right) // 2
+    # define iteration coditions
+    while left <= right:
+        # calculate mid
+        mid = (left + right) // 2
 
-            # achieve target
-            if ...: return ...
+        # achieve target
+        if ...: return ...
 
-            # re-calculate left and right
-            if mid ...: right = mid - 1
-            else: left = mid + 1
-        
-        # return target
-        return ...
+        # re-calculate left and right
+        if mid ...: right = mid - 1
+        else: left = mid + 1
+    
+    # return target
+    return ...
 ```
 
 ## Problems:
