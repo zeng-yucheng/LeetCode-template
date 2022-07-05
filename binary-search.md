@@ -41,4 +41,4 @@ def func():
 
 ## Note:
 * `left <= right`
-* `mid = target or target + 1`
+* `target = mid or mid - 1`
