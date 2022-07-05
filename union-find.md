@@ -34,8 +34,8 @@ def func():
             # compare size
             if size(a) >= size(b):
                 parents[b] = a
-                if size(a) == size(b):
-                    size(a) += 1
+                if size[a] == size[b]:
+                    size[a] += 1
             else:
                 parents[a] = b
     
