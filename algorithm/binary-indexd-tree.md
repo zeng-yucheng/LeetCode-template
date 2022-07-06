@@ -4,7 +4,7 @@
 
 A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers.
 
-1. `lowbit()` function
+### 1. `lowbit()` function
 
 Mathematical expression:
 $$lowbit(x) = x \& (-x)$$
@@ -22,10 +22,14 @@ Integer | Binary | lowbit
 8 | **1000** | 8
 
 
+### 2. Structure
+
+
+
+<div align="center"><img src="../pic/binary-indexed-tree-1.png" width="75%"></div>
+
+
 
 <style>
-table
-{
-    margin: auto;
-}
+table { margin: auto; }
 </style>
