@@ -7,7 +7,7 @@ A Fenwick tree or binary indexed tree is a data structure that can efficiently u
 ### 1. `lowbit()` function
 
 Mathematical expression:
-$$lowbit(x) = x \& (-x)$$
+$$lowbit(x) = x \wedge (-x)$$
 
 Example table:
 Integer | Binary | lowbit
