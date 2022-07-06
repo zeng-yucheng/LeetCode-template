@@ -17,3 +17,7 @@ class Solution:
 Complexity:
 * Time: *O(N<sup>2</sup>)*
 * Memory: *O(1)*
+
+
+## Method 2: Binary Indexed Tree
+
