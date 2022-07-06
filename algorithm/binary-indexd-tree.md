@@ -10,6 +10,9 @@ Mathematical expression:
 $$lowbit(x) = x \wedge (-x)$$
 
 Example table:
+
+<div align="center">
+
 Integer | Binary | lowbit
 :--- | :--- | :---
 1 | 000**1** | 1
@@ -21,15 +24,11 @@ Integer | Binary | lowbit
 7 | 011**1** | 1
 8 | **1000** | 8
 
+</div>
+
 
 ### 2. Structure
 
 
 
 <div align="center"><img src="../pic/binary-indexed-tree-1.png" width="75%"></div>
-
-
-
-<style>
-table { margin: auto; }
-</style>
