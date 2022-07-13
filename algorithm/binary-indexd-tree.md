@@ -74,3 +74,7 @@ def add(i, delta):
         tree[i] += delta
         i += lowbit(i)
 ```
+
+## **Problems**
+
+* [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
